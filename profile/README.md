@@ -74,7 +74,6 @@
   <tr>
     <td align="center">
       <img src="https://github.com/user-attachments/assets/1804903f-d8b6-4a7d-ae39-22d2005442d9" alt="홈화면" width="600">
-
     </td>
   </tr>
   <tr>
@@ -87,7 +86,6 @@
   </tr>
   <tr>
     <td align="center">
-      사진 준비중입니다.
       <img src="https://github.com/user-attachments/assets/a2c5b460-dd84-46c0-9bf1-39b11a9d3f57" alt="홈화면" width="600">
     </td>
   </tr>
